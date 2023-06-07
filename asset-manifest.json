@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ProfDevJourney/static/css/main.2d443f84.css",
-    "main.js": "/ProfDevJourney/static/js/main.1b32e2b2.js",
+    "main.js": "/ProfDevJourney/static/js/main.46653cab.js",
     "index.html": "/ProfDevJourney/index.html",
     "main.2d443f84.css.map": "/ProfDevJourney/static/css/main.2d443f84.css.map",
-    "main.1b32e2b2.js.map": "/ProfDevJourney/static/js/main.1b32e2b2.js.map"
+    "main.46653cab.js.map": "/ProfDevJourney/static/js/main.46653cab.js.map"
   },
   "entrypoints": [
     "static/css/main.2d443f84.css",
-    "static/js/main.1b32e2b2.js"
+    "static/js/main.46653cab.js"
   ]
 }
